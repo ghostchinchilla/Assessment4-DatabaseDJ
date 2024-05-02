@@ -1,2 +1,10 @@
 # Ignore the config.py file to protect sensitive information
 config.py
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+
